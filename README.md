@@ -1,2 +1,6 @@
 # easyVue3
-it is a easy vue3 demo
+简简单单的vue3 + vant + element的项目demo
+适合有一定经验但对项目结构没有概念的同学
+
+个人技术非常野，完全是自己摸索的，基本上一直在独立搞项目
+期待您的指点
